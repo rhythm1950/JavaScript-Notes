@@ -26,5 +26,5 @@ This is a website of a language club. I have developed it using HTML, CSS, Boots
 
 
 ### Website Preview:
-<img src="./assets/img/Modern-Language-Club.png" alt="Modern Language Club">
+<img src="./assets/images/Modern-Language-Club.png" alt="Modern Language Club">
 
